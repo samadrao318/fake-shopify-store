@@ -1,0 +1,50 @@
+[
+  {
+    "id": "p1",
+    "title": "Classic T-Shirt",
+    "price": 19.99,
+    "category": "Clothing",
+    "image": "tshirt.jpg",
+    "stock": 12
+  },
+  {
+    "id": "p2",
+    "title": "Minimal Hoodie",
+    "price": 39.99,
+    "category": "Clothing",
+    "image": "ie.jpg",
+    "stock": 80
+  },
+  {
+    "id": "p3",
+    "title": "Hoodie",
+    "price": 59.99,
+    "category": "Clothing",
+    "image": "hoodie.jpg",
+    "stock": 40
+  },
+  {
+    "id": "p4",
+    "title": "Paint",
+    "price": 9.99,
+    "category": "Clothing",
+    "image": "paint.jpg",
+    "stock": 200
+  },
+  {
+    "id": "p5",
+    "title": "Hoodie",
+    "price": 4.99,
+    "category": "Clothing",
+    "image": "Fhoddie.jpg",
+    "stock": 500
+  },
+  {
+    "id": "p6",
+    "title": "Mens Paint ",
+    "price": 99.9,
+    "category": "menspants",
+    "image": "a1806b777f19435b9a7b8e83358ec590.jpeg",
+    "stock": 12
+  }
+]
