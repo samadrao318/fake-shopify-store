@@ -111,7 +111,7 @@ def user_login():
         if st.button("Logout"):
             logout_user()
             st.session_state.clear()  # Clear all session state
-            st.experimental_rerun()
+            st.rerun()
         return
 
     # ---------------------
@@ -153,7 +153,7 @@ def user_login():
                 save_login_log(st.session_state.user)
                 otp_clear()
                 st.success(f"Login successful as {st.session_state.user}")
-                st.experimental_rerun()
+                st.rerun()
             else:
                 st.error("Invalid OTP!")
 
